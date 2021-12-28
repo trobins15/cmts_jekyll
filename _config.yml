@@ -100,7 +100,7 @@ primary_navigation:
     children:
       - name: What we do
         url: "#main-content"
-      - name: Organizational Structure
+      - name: "Organizational Structure"
         url: "#main-content"
       - name: Background
         url: "#main-content"
