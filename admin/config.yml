@@ -32,12 +32,12 @@ collections:
           timeFormat: false
         }
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: Documentation Pages
-    name: pages
+  - label: "Documentation Pages"
+    name: Pages
     label_singular: Page
     folder: _pages/
     create: true
-    preview_path: '{{slug}}'
+    preview_path: "{{slug}}"
     editor:
       preview: false
     fields:
@@ -46,9 +46,5 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: "Manual PDF",
          name: "manual_pdf",
-         widget: "file",
-         default: "/uploads/general-manual.pdf",
-           media_folder: "assets/uploads",
-          public_folder: "/images/uploads",
-         multiple: true
+         widget: "file"
          }
