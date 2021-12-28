@@ -21,8 +21,7 @@
 title: U.S. Committee on the Marine Transportation System
 email: info@cmts.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  The CMTS serves as a Federal interagency coordinating committee for the purpose of assessing the adequacy of the marine transportation system, promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment, and coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
@@ -30,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: cmts
+twitter: 18F
 
 #################################################################
 #
@@ -83,21 +82,17 @@ primary_navigation:
     url: /blog/
   - name: Document
     url: /document/
-  - name: Why the CMTS Matters
+  - name: Document with sidenav
+    url: /document-with-sidenav/
+  - name: Why CMTS Matters
     children:
       - name: National Strategy for the MTS
         url: "#main-content"
       - name: MTS Priorities and CMTS Recommendations
         url: "#main-content"
-  - name: About CMTS
-    children:
-      - name: What we do
+      - name: Navigation link
         url: "#main-content"
-      - name: Organizational Structure
-        url: "#main-content"
-      - name: Background
-        url: "#main-content"
-    
+
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
@@ -189,6 +184,8 @@ pagination:
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
   indexpage: "index.html"
+
+incremental: true
 
 exclude:
   - package.json
