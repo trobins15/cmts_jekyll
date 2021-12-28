@@ -96,11 +96,15 @@ primary_navigation:
         url: "#main-content"
       - name: Background
         url: "#main-content"
-   - name: Topics and Projects
-     children:
-      - name: Artic Transportation
+  - name: Topics
+    children:
+      - name: What we do
         url: "#main-content"
-
+      - name: Organizational Structure
+        url: "#main-content"
+      - name: Background
+        url: "#main-content"
+        
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
