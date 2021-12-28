@@ -80,10 +80,6 @@ primary_navigation:
     url: /
   - name: Blog
     url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
   - name: Why CMTS Matters
     children:
       - name: National Strategy for the MTS
@@ -104,7 +100,7 @@ primary_navigation:
      children:
       - name: Artic Transportation
         url: "#main-content"
-        
+
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
