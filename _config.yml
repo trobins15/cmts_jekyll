@@ -96,13 +96,13 @@ primary_navigation:
         url: "#main-content"
       - name: Background
         url: "#main-content"
-  - name: Topics
+  - name: Topics/Projects
     children:
-      - name: What we do
+      - name: "Artic Transportation"
         url: "#main-content"
       - name: "Organizational Structure"
         url: "#main-content"
-      - name: Background
+      - name: "Environmental Stewardship"
         url: "#main-content"
         
 secondary_navigation:
