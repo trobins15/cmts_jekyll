@@ -120,14 +120,7 @@ primary_navigation:
         url: "#main-content"
       - name: "Speaker Series"
         url: "#main-content"     
-   - name: Resources
-     children:
-        - name: "Compendium"
-          url: "#main-content"
-        - name: "Downloads"
-          url: "#main-content"
-        - name: "Links"
-          url: "#main-content"
+
       
 secondary_navigation:
   - name: Secondary link
