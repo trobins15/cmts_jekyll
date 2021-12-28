@@ -128,7 +128,8 @@ primary_navigation:
         url: "#main-content"
       - name: "Links"
         url: "#main-content"
-
+   - name: "News and Events"
+     url: /document-with-sidenav/
       
 secondary_navigation:
   - name: Secondary link
