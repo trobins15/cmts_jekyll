@@ -32,3 +32,23 @@ collections:
           timeFormat: false
         }
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: Documentation Pages
+    name: pages
+    label_singular: Page
+    folder: _pages/
+    create: true
+    preview_path: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Manual PDF",
+         name: "manual_pdf",
+         widget: "file",
+         default: "/uploads/general-manual.pdf",
+           media_folder: "assets/uploads",
+          public_folder: "/images/uploads",
+         multiple: true
+         }
