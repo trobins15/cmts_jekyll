@@ -120,7 +120,17 @@ primary_navigation:
         url: "#main-content"
       - name: "Speaker Series"
         url: "#main-content"     
-        
+   - name: Resources
+     children:
+        - name: "Compendium"
+          url: "#main-content"
+        - name: "Downloads"
+          url: "#main-content"
+        - name: "Links"
+          url: "#main-content"
+    - name: "News and Events"
+      url: /document-with-sidenav/
+      
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
