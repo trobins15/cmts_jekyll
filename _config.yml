@@ -88,8 +88,6 @@ primary_navigation:
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
-  - name: News and Events
-    url: /document-with-sidenav/
   - name: About CMTS
     children:
       - name: What we do
@@ -130,7 +128,9 @@ primary_navigation:
         url: "#main-content"
       - name: "Links"
         url: "#main-content"
-      
+  - name: News and Events
+    url: /document-with-sidenav/
+    
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
