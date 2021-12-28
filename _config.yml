@@ -100,7 +100,7 @@ primary_navigation:
         url: "#main-content"
       - name: Background
         url: "#main-content"
-   - name: Topics/Projects
+   - name: Topics and Projects
      children:
       - name: Artic Transportation
         url: "#main-content"
