@@ -76,27 +76,27 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: Home
+  - name: "Home"
     url: /
-  - name: Blog
+  - name: "Blog"
     url: /blog/
-  - name: Why CMTS Matters
+  - name: "Why CMTS Matters"
     children:
-      - name: National Strategy for the MTS
+      - name: "National Strategy for the MTS"
         url: "#main-content"
-      - name: MTS Priorities and CMTS Recommendations
+      - name: "MTS Priorities and CMTS Recommendations"
         url: "#main-content"
-      - name: Navigation link
+      - name: 'Navigation link"
         url: "#main-content"
-  - name: About CMTS
+  - name: "About CMTS"
     children:
-      - name: What we do
+      - name: "What we do"
         url: "#main-content"
-      - name: Organizational Structure
+      - name: "Organizational Structure"
         url: "#main-content"
-      - name: Background
+      - name: "Background"
         url: "#main-content"
-  - name: Topics/Projects
+  - name: "Topics/Projects"
     children:
       - name: "Artic Transportation"
         url: "#main-content"
@@ -128,7 +128,7 @@ primary_navigation:
         url: "#main-content"
       - name: "Links"
         url: "#main-content"
-  - name: News and Events
+  - name: "News and Events"
     url: /document-with-sidenav/
     
 secondary_navigation:
