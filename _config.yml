@@ -88,7 +88,7 @@ primary_navigation:
       - name: National Strategy for the MTS
         url: "#main-content"
       - name: MTS Priorities and CMTS Recommendations
-        url: "#main-content
+        url: "#main-content"
   - name: About CMTS
     children:
       - name: What we do
