@@ -88,6 +88,8 @@ primary_navigation:
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
+   - name: "News and Events"
+    url: /document-with-sidenav/
   - name: About CMTS
     children:
       - name: What we do
@@ -128,8 +130,6 @@ primary_navigation:
         url: "#main-content"
       - name: "Links"
         url: "#main-content"
-  - name: "News and Events"
-    url: /document-with-sidenav/
       
 secondary_navigation:
   - name: Secondary link
@@ -148,10 +148,10 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # Replace this with your search.gov account.
-  affiliate: federalist-uswds-example
+  affiliate: cmts
 
   # Replace this with your access key.
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: V5W7zi9WBVxI9ee--1X1L90deBsHCC94s1VmIjqWWvw=
 
   # This renders the results within the page instead of sending to user to search.gov.
   inline: true
