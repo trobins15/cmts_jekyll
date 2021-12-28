@@ -100,40 +100,6 @@ primary_navigation:
         url: "#main-content"
       - name: Background
         url: "#main-content"
-   - name: Topics/Projects
-    children:
-      - name: Artic Transportation
-        url: "#main-content"
-      - name: Energy and Air Emissions
-        url: "#main-content"
-      - name: Environmental Stewardship
-        url: "#main-content"
-      - name: Future of Navigation
-        url: "#main-content"
-      - name: Infrastructure Investment
-        url: "#main-content"
-      - name: Maritime Data
-        url: "#main-content"
-      - name: Military to Mariner
-        url: "#main-content"
-      - name: Ocean Policy
-        url: "#main-content"
-      - name: Research and Development
-        url: "#main-content"
-      - name: MTS Resilience
-        url: "#main-content"
-      - name: Speaker Series
-        url: "#main-content"
-  - name: Resources
-    children:
-      - name: Compendium
-        url: "#main-content"
-      - name: Downloads
-        url: "#main-content"
-      - name: Links
-        url: "#main-content"
-  - name: News and Events
-    url: /document-with-sidenav/
     
 secondary_navigation:
   - name: Secondary link
