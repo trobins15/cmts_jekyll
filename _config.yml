@@ -104,6 +104,22 @@ primary_navigation:
         url: "#main-content"
       - name: "Environmental Stewardship"
         url: "#main-content"
+      - name: "Future of Navigation"
+        url: "#main-content"
+      - name: "Infrastructure Investment"
+        url: "#main-content"
+      - name: "Maritime Data"
+        url: "#main-content"
+      - name: "Military to Mariner"
+        url: "#main-content"
+      - name: "Ocean Policy"
+        url: "#main-content"
+      - name: "Research and Development"
+        url: "#main-content"
+      - name: "MTS Resilience"
+        url: "#main-content"
+      - name: "Speaker Series"
+        url: "#main-content"     
         
 secondary_navigation:
   - name: Secondary link
