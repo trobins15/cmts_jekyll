@@ -2,7 +2,7 @@
 title: National Strategy for the MTS
 layout: page
 sidenav: false
-manual_pdf: /images/uploads/catherine_simons.jpg
+manual_pdf: www.google.com
 ---
 <span style="color:blue">
 ## NATIONAL STRATEGY FOR THE MTS
@@ -17,7 +17,7 @@ manual_pdf: /images/uploads/catherine_simons.jpg
            
 
 
-|The 2017 National Strategy for the Marine Transportation System: Channeling the Maritime Advantage (2017 National Strategy) was developed by the CMTS members through interagency engagement and multiple reviews before being signed by Transportation Secretary Elaine L. Chao on November 17, 2017. The 2017 National Strategy replaces the 2008 National Strategy and provides strategic guidance to the Federal interagency partnership to enhance the Federal understanding and support of the marine transportation system (MTS) under five priority areas:| ![description](www.google.com) |
+|The 2017 National Strategy for the Marine Transportation System: Channeling the Maritime Advantage (2017 National Strategy) was developed by the CMTS members through interagency engagement and multiple reviews before being signed by Transportation Secretary Elaine L. Chao on November 17, 2017. The 2017 National Strategy replaces the 2008 National Strategy and provides strategic guidance to the Federal interagency partnership to enhance the Federal understanding and support of the marine transportation system (MTS) under five priority areas:| ![MTS](/assets/uploads/pic_10.jpg) |
 |:-|--|
 |  | |
 
