@@ -1,6 +1,6 @@
 ---
 title: test
-sidenav: true
+sidenav: false
 manual_pdf: assets/uploads/documents/ali_mitchell.png
 ---
 tst
