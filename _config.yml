@@ -85,7 +85,7 @@ primary_navigation:
       - name: "National Strategy for the MTS"
         url: "/national-strategy-for-the-mts/"
       - name: "MTS Priorities and CMTS Recommendations"
-        url: "#main-content"
+        url: "/mts-priorities-and-recommendations/"
       - name: "Navigation link"
         url: "#main-content"
   - name: "About CMTS"
