@@ -59,8 +59,6 @@ collections:
    fields:
      - { label: 'Title', name: 'title', widget: 'string' }
      - { label: "Manual PDF",      
-         media_folder: assets/documents,
-         public_folder: /documents,
          name: "manual_pdf",
          widget: "file"
         }
