@@ -238,9 +238,6 @@ exclude:
   - Gemfile.lock
   - docker-compose.yml
   - Dockerfile
-  - assets/uploads
-  - assets
-  - img
   
 assets:
   sources:
