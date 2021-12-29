@@ -22,4 +22,4 @@ Taking into account the recommendations from GAO to include performance metrics 
 
 This Strategy will be implemented across Federal agencies and within the CMTS partnership, as appropriate. The CMTS will assist in coordinating and tracking the actions and measures through the Executive Secretariat, Integrated Action Teams, Task Teams, or a mechanism to be developed as needed. The CMTS will also align its current and future annual work plans with the approved 2017 National Strategy. While the 2017 National Strategy is a living document that must also meet emerging issues, the CMTS will make progress on each action within the next five years, with the goal of completing most, if not all, of the actions within those five years, pursuant to agency engagement, resources, and Administration policy.
 
-[MTS Document!](_assets/documents/6th_Biennial_Marine_Transportation_System_Innovative_Science_and_Technology_Conference_Call_for_Presentations.pdf)
+[MTS Document!](/_assets/documents/6th_Biennial_Marine_Transportation_System_Innovative_Science_and_Technology_Conference_Call_for_Presentations.pdf)
