@@ -63,8 +63,7 @@ collections:
          media_folder: assets/uploads/documents,
          widget: "file"
          }
-      - {
-          label: "Tags",
+      - {label: "Tags",
           name: "tags",
           widget: "select",
           multiple: true,
