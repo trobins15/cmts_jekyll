@@ -49,7 +49,7 @@ collections:
          name: "manual_pdf",
          widget: "file"
          }
-  - label: "Documentation"
+  - label: "Documents"
     name: Documents
     label_singular: Document
     folder: _assets/documents
@@ -63,6 +63,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: "Manual PDF",
          name: "manual_pdf",
+         media_folder: assets/uploads/documents,
          widget: "file"
          }
 
