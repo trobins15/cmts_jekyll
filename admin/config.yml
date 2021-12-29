@@ -48,3 +48,20 @@ collections:
          name: "manual_pdf",
          widget: "file"
          }
+  - label: "Documentation"
+    name: Documents
+    label_singular: Document
+    folder: _assets/documents
+    create: true
+    preview_path: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Manual PDF",
+         name: "manual_pdf",
+         widget: "file"
+         }
+
