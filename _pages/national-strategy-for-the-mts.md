@@ -1,5 +1,5 @@
 ---
-title: NATIONAL STRATEGY FOR THE MTS
+title: National Strategy for the MTS
 layout: page
 sidenav: false
 manual_pdf: /images/uploads/catherine_simons.jpg
