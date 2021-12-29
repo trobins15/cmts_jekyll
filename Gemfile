@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem "jekyll-assets", "~> 3.0", group: :jekyll_plugins
+  gem 'jekyll-strapi', github: 'strapi/jekyll-strapi'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
