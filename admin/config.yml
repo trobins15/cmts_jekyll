@@ -68,6 +68,7 @@ collections:
       - { label: "Document",
          name: "Document",
          media_folder: ../../assets/uploads/documents,
+         public_folder: /documents,
          widget: "file"
          }
       - {label: "Tags",
