@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: uscmts
 
 #################################################################
 #
@@ -86,48 +86,46 @@ primary_navigation:
         url: "/national-strategy-for-the-mts/"
       - name: "MTS Priorities and CMTS Recommendations"
         url: "/mts-priorities-and-recommendations/"
-      - name: "Navigation link"
-        url: "#main-content"
   - name: "About CMTS"
     children:
       - name: "What we do"
-        url: "#main-content"
+        url: "/what-we-do/"
       - name: "Organizational Structure"
-        url: "#main-content"
+        url: "/organizational-structure/"
       - name: "Background"
-        url: "#main-content"
+        url: "/background/"
   - name: "Topics/Projects"
     children:
       - name: "Artic Transportation"
-        url: "#main-content"
-      - name: "Organizational Structure"
-        url: "#main-content"
+        url: "/arctic-transportation/"
+      - name: "Energy and Air Emissions"
+        url: "/energy-and-air-emissions/"
       - name: "Environmental Stewardship"
-        url: "#main-content"
+        url: "/environmental-stewardship/"
       - name: "Future of Navigation"
-        url: "#main-content"
+        url: "/future-of-navigation/"
       - name: "Infrastructure Investment"
-        url: "#main-content"
+        url: "/infrastructure-investment/"
       - name: "Maritime Data"
-        url: "#main-content"
+        url: "/maritime-data/"
       - name: "Military to Mariner"
-        url: "#main-content"
+        url: "/military-to-mariner/"
       - name: "Ocean Policy"
-        url: "#main-content"
+        url: "/ocean-policy/"
       - name: "Research and Development"
-        url: "#main-content"
+        url: "/research-and-development/"
       - name: "MTS Resilience"
-        url: "#main-content"
+        url: "/mts-resilience/"
       - name: "Speaker Series"
-        url: "#main-content"     
+        url: "/speaker-series/"     
   - name: "Resources"
     children:
       - name: "Compendium"
-        url: "#main-content"
+        url: "/compendium/"
       - name: "Downloads"
-        url: "#main-content"
+        url: "/downloads/"
       - name: "Links"
-        url: "#main-content"
+        url: "/links/"
   - name: "News and Events"
     url: /document-with-sidenav/
     
