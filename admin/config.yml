@@ -58,6 +58,13 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: 'MMMM D, YYYY',
+          dateFormat: 'MMMM D, YYYY',
+          timeFormat: false
+        }
       - { label: "Document",
          name: "Document",
          media_folder: ../../assets/uploads/documents,
