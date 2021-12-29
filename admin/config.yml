@@ -49,18 +49,18 @@ collections:
          widget: "file"
          }
  - label: "Documents"
-    name: Documents
-    label_singular: Document
-    folder: _assets/documents
-    create: true
-    preview_path: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: "Manual PDF",      
-          media_folder: assets/documents
-          public_folder: /documents
-          name: "manual_pdf",
+   name: Documents
+   label_singular: Document
+   folder: _assets/documents
+   create: true
+   preview_path: "{{slug}}"
+   editor:
+     preview: false
+   fields:
+     - { label: 'Title', name: 'title', widget: 'string' }
+     - { label: "Manual PDF",      
+         media_folder: assets/documents,
+         public_folder: /documents
+         name: "manual_pdf",
          widget: "file"
-         }
+        }
