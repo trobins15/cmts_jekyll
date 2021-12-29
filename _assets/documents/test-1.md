@@ -1,9 +1,10 @@
 ---
-title: Annual Report - Arctic
+title: National Strategy for the MTS 2017
 sidenav: true
 manual_pdf: assets/uploads/documents/ali_mitchell.png
-Document: ../../assets/uploads/documents/2013-2014_CMTS_Annual_Report.pdf
+date: December 29, 2021
+Document: ../../assets/uploads/documents/National_Strategy_for_the_MTS_October_2017.pdf
 tags:
-  - Arctic
+  - National Strategy
 ---
 tst
