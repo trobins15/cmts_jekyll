@@ -6,8 +6,7 @@ backend:
   preview_context: federalist/build
   branch: main
 
-media_folder: assets/uploads
-media_folder: assets/uploads/documents
+media_folder: assets
 public_folder: /images/uploads
 /*publish_mode: editorial_workflow*/
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
