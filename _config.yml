@@ -83,7 +83,7 @@ primary_navigation:
   - name: "Why CMTS Matters"
     children:
       - name: "National Strategy for the MTS"
-        url: "/national-strategy-for-the-mts/"
+        url: "/pages/national-strategy-for-the-mts.html"
       - name: "MTS Priorities and CMTS Recommendations"
         url: "/mts-priorities-and-recommendations/"
   - name: "About CMTS"
