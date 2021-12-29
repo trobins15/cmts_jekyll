@@ -1,9 +1,12 @@
 ---
 title: NATIONAL STRATEGY FOR THE MTS
+layout: page
 sidenav: false
 manual_pdf: /images/uploads/catherine_simons.jpg
 ---
-Channeling the Maritime Advantage (2017-2022)
+
+# Channeling the Maritime Advantage (2017-2022)
+
 The United States marine transportation system will be a safe, secure, clean, and globally integrated network that, in harmony with the environment, ensures a free-flowing, seamless, and reliable movement of people and commerce along its waterways, sea lanes, and intermodal connections.
 CMTS Vision of the MTS, Approved by the U.S. Committee on the Marine Transportation System – October 2017
 Marine Transportation System
