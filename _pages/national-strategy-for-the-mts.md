@@ -4,16 +4,23 @@ layout: page
 sidenav: false
 manual_pdf: /images/uploads/catherine_simons.jpg
 ---
-<span style="color:blue"># NATIONAL STRATEGY FOR THE MTS</span>
+## <span style="color:blue">NATIONAL STRATEGY FOR THE MTS</span>
+## NATIONAL STRATEGY FOR THE MTS
 ### Channeling the Maritime Advantage (2017-2022)
 
 > _The United States marine transportation system will be a safe, secure, clean, and globally integrated network that, in harmony with the environment, ensures a free-flowing, seamless, and reliable movement of people and commerce along its waterways, sea lanes, and intermodal connections._
 
-         ####CMTS Vision of the MTS, Approved by the U.S. Committee on the Marine Transportation System – October 2017 Marine Transportation System
+         - CMTS Vision of the MTS
+           Approved by the U.S. Committee on the Marine Transportation System – October 2017 
+           
 
-The 2017 National Strategy for the Marine Transportation System: Channeling the Maritime Advantage (2017 National Strategy) was developed by the CMTS members through interagency engagement and multiple reviews before being signed by Transportation Secretary Elaine L. Chao on November 17, 2017. The 2017 National Strategy replaces the 2008 National Strategy and provides strategic guidance to the Federal interagency partnership to enhance the Federal understanding and support of the marine transportation system (MTS) under five priority areas:
 
--  **Optimize System Performance: ** Measuring the reliability of physical and operational elements of the MTS to inform and support strategies for targeted improvements as trade and supply chain competitiveness increases.
+|The 2017 National Strategy for the Marine Transportation System: Channeling the Maritime Advantage (2017 National Strategy) was developed by the CMTS members through interagency engagement and multiple reviews before being signed by Transportation Secretary Elaine L. Chao on November 17, 2017. The 2017 National Strategy replaces the 2008 National Strategy and provides strategic guidance to the Federal interagency partnership to enhance the Federal understanding and support of the marine transportation system (MTS) under five priority areas:| ![description](www.google.com) |
+|:-|--|
+|  | |
+
+
+-   **Optimize System Performance:** Measuring the reliability of physical and operational elements of the MTS to inform and support strategies for targeted improvements as trade and supply chain competitiveness increases.
 -   **Enhance Maritime Safety:** Promoting an MTS free from collisions, allisions, groundings, and injury, death, and damage to property and environment as congestion and maximum vessel size within the MTS increases.
 -   **Support Maritime Security:** Evaluating the infrastructure and operations of the MTS, taking into account possible threats and vulnerabilities while continually assessing existing protective measures, procedures, and operations, supported by efforts to understand and incorporate maritime domain awareness into shipping activities.
 -   **Advance Energy Innovation and Development:** Identifying opportunities to utilize all sources of domestic energy and implement new technologies to ensure energy independence and more efficient fuel use.
