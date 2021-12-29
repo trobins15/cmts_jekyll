@@ -14,7 +14,6 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', "3.0.0"  
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-strapi', github: 'strapi/jekyll-strapi'
   gem "jekyll-assets", "~> 3.0", group: :jekyll_plugins
 end
 
