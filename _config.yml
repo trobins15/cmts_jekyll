@@ -243,3 +243,5 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+
+theme: jekyll-theme-cayman
