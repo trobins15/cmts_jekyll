@@ -93,7 +93,13 @@ primary_navigation:
       - name: "Organizational Structure"
         url: "/organizational-structure/"
       - name: "Background"
-        url: "/background/"
+        children:
+        - name: "Why the CMTS Matters"
+        - url: "/why-matters/"
+        - name: "History"
+        - url: "/history/"
+        - name: "Directives"
+        - url: "/directives/"        
   - name: "Topics/Projects"
     children:
       - name: "Artic Transportation"
