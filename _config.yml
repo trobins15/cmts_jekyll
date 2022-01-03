@@ -128,8 +128,6 @@ primary_navigation:
         url: "/compendium/"
       - name: "Downloads"
         url: "/downloads/"
-      - name: "Links"
-        url: "/links/"
   - name: "News and Events"
     url: /document-with-sidenav/
     
