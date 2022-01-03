@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: U.S. Committee on the Marine Transportation System
+title: U.S. Committee on the <br>Marine Transportation System
 email: info@cmts.gov
 description: >- # this means to ignore newlines until "baseurl:"
   The CMTS serves as a Federal interagency coordinating committee for the purpose of assessing the adequacy of the marine transportation system, promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment, and coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.
@@ -88,42 +88,40 @@ primary_navigation:
         url: "/priorities/"
   - name: "About CMTS"
     children:
-      - name: "What we do"
+      - name: "What We Do"
         url: "/about-us/"
       - name: "Organizational Structure"
         url: "/organizational-structure/"
-      - name: "Background"
-        children:
-        - name: "Why the CMTS Matters"
-        - url: "/why-matters/"
-        - name: "History"
-        - url: "/history/"
-        - name: "Directives"
-        - url: "/directives/"        
+      - name: "Background - Why the CMTS Matters"
+        url: "/why-cmts-matters/"
+      - name: "Background - History"
+        url: "/history/"
+      - name: "Background - Directives"
+        url: "/directives/"        
   - name: "Topics/Projects"
     children:
       - name: "Artic Transportation"
-        url: "/arctic-transportation/"
+        url: "/arctic/"
       - name: "Energy and Air Emissions"
-        url: "/energy-and-air-emissions/"
+        url: "/energy/"
       - name: "Environmental Stewardship"
-        url: "/environmental-stewardship/"
+        url: "/environmental/"
       - name: "Future of Navigation"
-        url: "/future-of-navigation/"
+        url: "/future/"
       - name: "Infrastructure Investment"
-        url: "/infrastructure-investment/"
+        url: "/infrastructure/"
       - name: "Maritime Data"
-        url: "/maritime-data/"
+        url: "/maritime/"
       - name: "Military to Mariner"
-        url: "/military-to-mariner/"
+        url: "/military/"
       - name: "Ocean Policy"
         url: "/ocean-policy/"
       - name: "Research and Development"
-        url: "/research-and-development/"
+        url: "/research/"
       - name: "MTS Resilience"
-        url: "/mts-resilience/"
+        url: "/resilience/"
       - name: "Speaker Series"
-        url: "/speaker-series/"     
+        url: "/speaker/"     
   - name: "Resources"
     children:
       - name: "Compendium"
@@ -227,7 +225,7 @@ pagination:
   # Without file extension
   indexpage: "index.html"
 
-incremental: true
+#incremental: true
 
 exclude:
   - package.json
