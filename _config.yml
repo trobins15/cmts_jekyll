@@ -118,7 +118,7 @@ primary_navigation:
         url: "/ocean-policy/"
       - name: "Research and Development"
         url: "/research/"
-      - name: "MTS Resilience"
+      - name: "MTS Resilienced"
         url: "/resilience/"
       - name: "Speaker Series"
         url: "/speaker/"     
