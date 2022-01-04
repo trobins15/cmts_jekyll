@@ -240,7 +240,7 @@ exclude:
   - docker-compose.yml
   - Dockerfile
 
-assets:
+#assets:
   sources:
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
