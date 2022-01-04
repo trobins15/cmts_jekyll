@@ -1,0 +1,1 @@
+Sitemap: /cmts_jekyll/sitemap.xml
