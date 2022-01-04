@@ -174,7 +174,6 @@ permalink: pretty
 
 markdown: kramdown
 plugins:
-  - jekyll-assets
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-redirect-from
