@@ -88,7 +88,7 @@ primary_navigation:
         url: "/priorities/"
   - name: "About CMTS"
     children:
-      - name: "What We Do"
+      - name: "What We Dod"
         url: "/about-us/"
       - name: "Organizational Structure"
         url: "/organizational-structure/"
