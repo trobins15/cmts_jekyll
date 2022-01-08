@@ -7,4 +7,5 @@ tags:
   - Arctic
   - Maritime Data
   - R&D
+  - COVID
 ---
